@@ -14,6 +14,7 @@ from django.http import JsonResponse
 from django.utils.translation import gettext
 import re
 import base64
+import base64
 import io
 from PIL import Image
 
